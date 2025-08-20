@@ -1,2 +1,3 @@
-# Hello-GitHub
-My first GitHub repository for learning Git and version control basics.
+# Hello GitHub
+This is my first repository.
+I'm learning GitHub basics including commits, branches, and pull requests.
